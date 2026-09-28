@@ -30,8 +30,7 @@ laptop I turned into an Ubuntu home server.
 </table>
 
 Also: [**SportMatchPredictor**](https://github.com/SoftGene/SportMatchPredictor), my bachelor's thesis — a WPF app
-that predicts football results with an ML.NET model trained on about 25,000 matches ·
-[**my-ionic-movie-app**](https://github.com/SoftGene/my-ionic-movie-app), a learning project in Ionic 8 and Angular 19.
+that predicts football results with an ML.NET model trained on about 25,000 matches
 
 ### How I work
 
