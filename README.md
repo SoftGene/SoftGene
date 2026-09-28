@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="Pavel Sakalou — Junior .NET Developer, Zlín, Czech Republic" width="100%">
+<img src="assets/banner.png" alt="SoftGene — backend developer, C# and .NET" width="100%">
 
 I finished my bachelor's in Software Engineering at Tomas Bata University in Zlín in 2026 and I'm looking for my
 first developer job, ideally backend in C# and .NET. I like the part after the code too: my projects run on an old
